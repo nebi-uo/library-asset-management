@@ -1,0 +1,13 @@
+C:\Users\getac\Desktop\Projects\library-asset-management\src\controllers\BorrowController.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\controllers\DashboardController.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\controllers\LoginController.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\Main.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\models\BorrowRecord.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\models\LibraryItem.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\models\PhysicalBook.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\models\User.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\services\AuthService.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\services\BorrowService.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\services\DatabaseService.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\services\LibraryService.java
+C:\Users\getac\Desktop\Projects\library-asset-management\src\utils\AlertUtil.java

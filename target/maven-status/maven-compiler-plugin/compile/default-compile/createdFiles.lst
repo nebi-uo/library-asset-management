@@ -1,0 +1,13 @@
+models\PhysicalBook.class
+models\BorrowRecord.class
+services\LibraryService.class
+models\User.class
+controllers\DashboardController.class
+services\BorrowService.class
+controllers\BorrowController.class
+Main.class
+controllers\LoginController.class
+models\LibraryItem.class
+services\AuthService.class
+services\DatabaseService.class
+utils\AlertUtil.class
